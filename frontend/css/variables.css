@@ -1,0 +1,44 @@
+:root {
+  --color-bg:                 #0f1117;
+  --color-card-bg:            rgba(255, 255, 255, 0.03);
+  --color-card-border:        rgba(255, 255, 255, 0.06);
+  --color-input-bg:           rgba(255, 255, 255, 0.04);
+  --color-input-border:       rgba(255, 255, 255, 0.08);
+
+  --color-accent:             #818cf8;
+  --color-accent-light:       #a5b4fc;
+  --color-accent-dark:        #6366f1;
+  --color-accent-glow:        rgba(129, 140, 248, 0.35);
+  --color-accent-glow-soft:   rgba(129, 140, 248, 0.15);
+  --color-accent-pill-bg:     rgba(129, 140, 248, 0.12);
+  --color-accent-pill-border: rgba(129, 140, 248, 0.2);
+  --color-accent-pill-hover:  rgba(129, 140, 248, 0.22);
+  --color-accent-border-focus: rgba(129, 140, 248, 0.4);
+  --color-accent-btn-glow:    rgba(99, 102, 241, 0.45);
+
+  --color-positive:           #34d399;
+
+  --color-text-primary:       #e5e7eb;
+  --color-text-secondary:     #d1d5db;
+  --color-text-muted:         #6b7280;
+  --color-text-placeholder:   #4b5563;
+  --color-text-white:         #ffffff;
+  --color-text-error:         #f87171;
+
+  --gradient-bg-accent:       rgba(99, 102, 241, 0.15);
+  --gradient-bg-positive:     rgba(52, 211, 153, 0.08);
+
+  --color-spinner-track:      rgba(255, 255, 255, 0.2);
+  --color-spinner-head:       #ffffff;
+
+  --radius-xl:                0.75rem;
+  --radius-2xl:               1rem;
+  --radius-full:              9999px;
+  --blur-glass:               12px;
+
+  --font-family:              'Inter', system-ui, -apple-system, sans-serif;
+
+  --transition-fast:          0.2s ease;
+  --transition-normal:        0.3s ease;
+  --transition-slow:          0.45s ease;
+}
